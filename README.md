@@ -14,3 +14,12 @@ This takes the search information from the search folder and uses directions API
 
 WeatherPy_travel_map_markers
 We added popup markers with information on the cities included in the itinerary.
+
+
+Contact:
+
+email: ehawkins0631@gmail.com
+
+twitter: @evahawkins3006
+
+Linkedin https://www.linkedin.com/in/eva-hawkins-a9b333147/
