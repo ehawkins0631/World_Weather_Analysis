@@ -9,6 +9,7 @@ The purpose of this challenge was to improve our app so that it contains weather
 
 Results
 
+
 WeatherPy_Vacation_map
 This map takes the information gained in the weather database and uses Google Maps API to plot different travel destinations with a hotel at each location. Information such as weather description, temperature, and country are listed.
 
