@@ -21,7 +21,6 @@ We added popup markers with information on the cities included in the itinerary.
 
 
 Contact:
-
 email: ehawkins0631@gmail.com
 
 twitter: @evahawkins3006
